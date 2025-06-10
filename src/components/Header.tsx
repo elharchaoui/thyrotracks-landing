@@ -1,5 +1,3 @@
-// src/components/Header.tsx
-
 import { Linkedin, Mail } from 'lucide-react';
 import Link from 'next/link';
 

@@ -1,4 +1,3 @@
-// src/components/ContactForm.tsx
 'use client';
 
 import { useState } from 'react';
@@ -34,9 +33,14 @@ const ContactForm = () => {
       setStatus('success');
       // Optionally reset the form
       // e.currentTarget.reset();
-    } catch (error: any) {
+    } catch (error) { // Let TypeScript infer the type, or be specific
       setStatus('error');
-      setErrorMessage(error.message);
+      // To safely access .message, we check if it's an instance of Error
+      if (error instanceof Error) {
+        setErrorMessage(error.message);
+      } else {
+        setErrorMessage('An unknown error occurred.');
+      }
     }
   };
 

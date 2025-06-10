@@ -1,6 +1,3 @@
-// src/components/Footer.tsx
-import Link from "next/link";
-
 const Footer = () => {
   return (
     // This is the third full-screen section (using a footer tag).

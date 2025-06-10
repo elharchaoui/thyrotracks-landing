@@ -40,7 +40,8 @@ export async function POST(req: Request) {
     // If successful, return a 200 response
     return NextResponse.json({ message: 'Email sent successfully!', data });
   } catch (error) {
-    // Handle any other errors
+    // USE the error variable by logging it
+    console.error(error); 
     return NextResponse.json({ error: 'Something went wrong.' }, { status: 500 });
   }
 }
