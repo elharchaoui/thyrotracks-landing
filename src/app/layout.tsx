@@ -8,7 +8,7 @@ import Header from "@/components/Header";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Thyroracks - Smarter thyroid care starts here.",
+  title: "Thyrotracks - Smarter thyroid care starts here.",
   description: "Your health, upgraded with AI.",
 };
 
