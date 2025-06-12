@@ -39,7 +39,7 @@ const Hero = () => {
         <div className="mt-12 flex flex-col sm:flex-row gap-4">
           <button
             onClick={handleScroll}
-            className="px-8 py-3 border border-gray-400 rounded-sm hover:bg-brand-green hover:border-brand-green transition-colors duration-300"
+            className="px-8 py-3 border border-gray-400 rounded-sm hover:bg-brand-green hover:border-brand-green transition-colors duration-300 cursor-pointer"
           >
             GET NOTIFIED
           </button>

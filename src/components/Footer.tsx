@@ -5,7 +5,7 @@ const Footer = () => {
       <div className="max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-12">
         {/* Column 1: Logo and Tagline */}
         <div>
-          <h3 className="text-xl font-bold text-white mb-2">Thyroracks</h3>
+          <h3 className="text-xl font-bold text-white mb-2">Thyrotracks</h3>
           <p>Augmented Healthcare</p>
         </div>
 
@@ -22,10 +22,10 @@ const Footer = () => {
           <h4 className="font-semibold text-white mb-4">Contact us</h4>
           <ul>
             <li className="mb-2">
-              <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
+              <a href="https://www.linkedin.com/company/thyrotracks/" target="_blank" rel="noopener noreferrer" className="hover:text-white transition-colors">LinkedIn</a>
             </li>
             <li>
-              <a href="mailto:contact@thyroracks.com" className="hover:text-white transition-colors">Mail</a>
+              <a href="mailto:contact@thyrotracks.com" className="hover:text-white transition-colors">Mail</a>
             </li>
           </ul>
         </div>
