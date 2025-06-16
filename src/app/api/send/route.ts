@@ -14,8 +14,8 @@ export async function POST(req: Request) {
 
     // Use Resend to send the email
     const { data, error } = await resend.emails.send({
-        from: 'Onboarding <contact@thyrotracks.com>',
-        to: ['med.el.harchaoui@gmail.com'],
+        from: 'Onboarding <contact@thyrotracks.fr>',
+        to: ['med.el.harchaoui@gmail.com','jawed.zidou@gmail.com'],
         subject: `New Waitlist Signup: ${firstName} ${name}`,
         html: `
             <div>
