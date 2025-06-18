@@ -1,7 +1,7 @@
 const Footer = () => {
   return (
     // This is the third full-screen section (using a footer tag).
-    <footer className="h-screen w-full bg-black text-gray-400 flex items-center justify-center p-6">
+    <footer className="w-full bg-black text-gray-400 flex items-center justify-center p-6 py-16">
       <div className="max-w-6xl w-full grid grid-cols-1 md:grid-cols-3 gap-12">
         {/* Column 1: Logo and Tagline */}
         <div>
