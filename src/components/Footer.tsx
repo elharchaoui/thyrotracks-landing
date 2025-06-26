@@ -84,7 +84,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-neutral-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center gap-6 text-sm">
             <p className="text-neutral-500">
-              © 2024 Thyrotracks. All rights reserved.
+              © 2025 Thyrotracks. All rights reserved.
             </p>
             <div className="flex gap-4">
               <a href="/privacy" className="hover:text-accent-cyan transition-colors duration-300">Privacy</a>
