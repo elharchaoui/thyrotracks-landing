@@ -86,7 +86,7 @@ export default function CookiesPolicy() {
                 <ul className="list-disc pl-6 mt-2 space-y-1">
                   <li>Remember your language or region preferences</li>
                   <li>Personalize content based on your interests</li>
-                  <li>Remember settings you've applied</li>
+                  <li>Remember settings you&apos;ve applied</li>
                 </ul>
               </div>
             </div>

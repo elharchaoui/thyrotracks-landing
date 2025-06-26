@@ -35,7 +35,7 @@ export default function TermsOfService() {
             </div>
             <h2 className="text-2xl font-bold text-white">Terms of Service Coming Soon</h2>
             <p className="max-w-md">
-              We're currently finalizing our Terms of Service document to ensure it provides clear and comprehensive information about using Thyrotracks services.
+              We&rsquo;re currently finalizing our Terms of Service document to ensure it provides clear and comprehensive information about using Thyrotracks services.
             </p>
             <p className="text-sm text-neutral-500">
               Expected publication: July 2025

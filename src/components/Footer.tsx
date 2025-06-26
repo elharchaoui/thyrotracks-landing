@@ -1,3 +1,4 @@
+import Image from 'next/image';
 const Footer = () => {
   return (
     <footer className="w-full bg-gradient-to-br from-neutral-900 via-black to-neutral-800 text-neutral-400 border-t border-neutral-800">
@@ -34,7 +35,7 @@ const Footer = () => {
           <div>
               <h5 className="font-semibold text-white mb-3 text-sm">Our Partners</h5>
                 <div className="bg-white/10 backdrop-blur-sm rounded-lg p-3 inline-block">
-                <img 
+                <Image
                   src="/Logo-IMT-Starter-V-Blanc_v2.png" 
                   alt="IMT Partner Logo" 
                   className="h-10 opacity-80 hover:opacity-100 transition-opacity duration-300"
@@ -84,7 +85,7 @@ const Footer = () => {
         <div className="pt-8 border-t border-neutral-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="flex items-center gap-6 text-sm">
             <p className="text-neutral-500">
-              © 2025 Thyrotracks. All rights reserved.
+              © 2025 Thyrotracks.&apos; All rights reserved.
             </p>
             <div className="flex gap-4">
               <a href="/privacy" className="hover:text-accent-cyan transition-colors duration-300">Privacy</a>

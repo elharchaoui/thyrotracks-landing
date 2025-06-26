@@ -73,7 +73,7 @@ function EnglishContent() {
         <p>
           Thyrotracks places the utmost importance on protecting your personal data and ensuring 
           compliance with Regulation (EU) 2016/679 – the General Data Protection Regulation 
-          ("GDPR").
+          (&quot;GDPR&quot;).
         </p>
         <p>
           This Privacy Policy is intended to provide you with clear and transparent information 
@@ -254,7 +254,7 @@ function FrenchContent() {
           <li>La manière dont ces données sont traitées, sécurisées, conservées ;</li>
           <li>Vos droits et comment les exercer ;</li>
           <li>Les destinataires de vos données ;</li>
-          <li>L'utilisation des cookies.</li>
+          <li>L&rsquo;utilisation des cookies.</li>
         </ul>
       </section>
 
@@ -266,7 +266,7 @@ function FrenchContent() {
         </p>
         <ul className="list-disc pl-6 space-y-2">
           <li>Licéité, loyauté, transparence : les données sont traitées de manière licite et transparente ;</li>
-          <li>Finalité déterminée : elles sont collectées pour des finalités explicites, légitimes et déterminées à l'avance ;</li>
+          <li>Finalité déterminée : elles sont collectées pour des finalités explicites, légitimes et déterminées à l&rsquo;avance ;</li>
           <li>Minimisation : seules les données strictement nécessaires sont collectées ;</li>
           <li>Exactitude : nous mettons à jour les données inexactes ;</li>
           <li>Limitation de conservation : les données sont conservées uniquement le temps nécessaire à la finalité du traitement ;</li>
@@ -280,12 +280,12 @@ function FrenchContent() {
         <div className="space-y-4">
           <h3 className="text-xl font-semibold text-white">3.1 – Typologies de données collectées</h3>
           <p>
-            Dans le cadre de l'utilisation de nos services (application mobile, application web, site 
+            Dans le cadre de l&rsquo;utilisation de nos services (application mobile, application web, site 
             internet), nous collectons :
           </p>
           
           <div className="space-y-2">
-            <h4 className="text-lg font-medium text-white">Données d'identification</h4>
+            <h4 className="text-lg font-medium text-white">Données d&rsquo;identification</h4>
             <ul className="list-disc pl-6 space-y-1">
               <li>Nom, prénom, genre, date de naissance</li>
               <li>Adresse e-mail, téléphone, adresse postale</li>
@@ -296,15 +296,15 @@ function FrenchContent() {
           <div className="space-y-2">
             <h4 className="text-lg font-medium text-white">Données de navigation</h4>
             <ul className="list-disc pl-6 space-y-1">
-              <li>Adresse IP, date/heure de connexion, type de terminal, système d'exploitation, logs de navigation</li>
+              <li>Adresse IP, date/heure de connexion, type de terminal, système d&rsquo;exploitation, logs de navigation</li>
             </ul>
           </div>
           
           <div className="space-y-2">
             <h4 className="text-lg font-medium text-white">Données de localisation</h4>
             <p>
-              Lors de l'activation de certaines fonctionnalités (comme les rappels liés à des rendez-vous 
-              de suivi), une localisation approximative peut être utilisée mais n'est jamais stockée.
+              Lors de l&rsquo;activation de certaines fonctionnalités (comme les rappels liés à des rendez-vous 
+              de suivi), une localisation approximative peut être utilisée mais n&rsquo;est jamais stockée.
             </p>
           </div>
         </div>
@@ -315,7 +315,7 @@ function FrenchContent() {
           <ul className="list-disc pl-6 space-y-1">
             <li>Créer, gérer et sécuriser votre compte utilisateur</li>
             <li>Permettre le suivi de votre santé selon les protocoles recommandés</li>
-            <li>Faciliter la collaboration entre vous et votre médecin via l'application</li>
+            <li>Faciliter la collaboration entre vous et votre médecin via l&rsquo;application</li>
             <li>Gérer votre agenda santé (rappels, bilans, écho...)</li>
           </ul>
         </div>
@@ -324,7 +324,7 @@ function FrenchContent() {
           <h3 className="text-xl font-semibold text-white">3.3 – Base légale des traitements</h3>
           <ul className="list-disc pl-6 space-y-1">
             <li>Consentement : pour les données de santé, les newsletters ou la participation à la recherche</li>
-            <li>Exécution d'un contrat : accès à la plateforme, création de compte, suivi personnalisé</li>
+            <li>Exécution d&rsquo;un contrat : accès à la plateforme, création de compte, suivi personnalisé</li>
             <li>Obligation légale : conservation sécurisée des données de santé (hébergement HDS)</li>
             <li>Intérêt légitime : amélioration continue du service et du suivi des utilisateurs</li>
           </ul>
@@ -350,19 +350,19 @@ function FrenchContent() {
           Conformément au RGPD, vous disposez des droits suivants sur vos données personnelles :
         </p>
         <ul className="list-disc pl-6 space-y-1">
-          <li>Droit d'accès : obtenir une copie de vos données</li>
+          <li>Droit d&rsquo;accès : obtenir une copie de vos données</li>
           <li>Droit de rectification : corriger les données inexactes</li>
-          <li>Droit à l'effacement : demander la suppression de vos données (sauf obligation légale de conservation)</li>
+          <li>Droit à l&rsquo;effacement : demander la suppression de vos données (sauf obligation légale de conservation)</li>
           <li>Droit à la portabilité : récupérer vos données sous format structuré</li>
           <li>Droit à la limitation ou opposition : dans certains cas, limiter ou refuser un traitement</li>
           <li>Droit de retirer votre consentement à tout moment</li>
           <li>Droit de définir des directives sur le sort de vos données après votre décès</li>
-          <li>Droit d'introduire une réclamation auprès de la CNIL : <a href="https://www.cnil.fr" target="_blank" rel="noopener noreferrer" className="text-accent-cyan hover:underline">www.cnil.fr</a></li>
+          <li>Droit d&rsquo;introduire une réclamation auprès de la CNIL : <a href="https://www.cnil.fr" target="_blank" rel="noopener noreferrer" className="text-accent-cyan hover:underline">www.cnil.fr</a></li>
         </ul>
         <p>
           Pour exercer vos droits : <a href="mailto:contact@thyrotracks.com" className="text-accent-cyan hover:underline">contact@thyrotracks.com</a>
         </p>
-        <p className="italic">Une preuve d'identité pourra vous être demandée.</p>
+        <p className="italic">Une preuve d&rsquo;identité pourra vous être demandée.</p>
       </section>
 
       <section className="space-y-4">
@@ -381,7 +381,7 @@ function FrenchContent() {
         </p>
         <ul className="list-disc pl-6 space-y-1">
           <li>Cookies strictement nécessaires au fonctionnement</li>
-          <li>Cookies de mesure d'audience (Google Analytics ou équivalent anonymisé)</li>
+          <li>Cookies de mesure d&rsquo;audience (Google Analytics ou équivalent anonymisé)</li>
           <li>Cookies de personnalisation (avec votre consentement)</li>
         </ul>
         <p>
@@ -399,7 +399,7 @@ function FrenchContent() {
         <p className="font-medium">Dernière mise à jour : 25 juin 2025</p>
         <p>
           Nous vous invitons à consulter cette page régulièrement. En cas de changement majeur, 
-          nous vous en informerons par email ou au sein de l'application.
+          nous vous en informerons par email ou au sein de l&rsquo;application.
         </p>
       </section>
     </div>
